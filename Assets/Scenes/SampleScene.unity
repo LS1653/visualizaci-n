@@ -9961,9 +9961,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hola, muevete con el wasd para ver todo el mapa.\n\nDa clic en los cuadros
-    de texto si quieres tener m\xE1s informaci\xF3n del tema que se menciona (Por
-    ahora esta en desarrollo, por lo que solo estara la animaci\xF3n de acercamiento)"
+  m_text: "Hola, mu\xE9vete con el wasd para ver todo el mapa.\n\nDa clic en los
+    cuadros de texto, si quieres tener m\xE1s informaci\xF3n del tema que se menciona.
+    (Por ahora esta en desarrollo, por lo que s\xF3lo estara la animaci\xF3n de acercamiento)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
