@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Infografia.unity
     guid: 1b2fb7099c4c30d49ae0a76127edc2a2
+  - enabled: 1
+    path: Assets/Scenes/MapaCalor.unity
+    guid: 94e88fb4b00c7e8469d1ad07863224ee
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
