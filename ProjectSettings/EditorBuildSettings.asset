@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mapa.unity
     guid: 3e88b2dd34c6c3d4ba314b0d9d32a3c3
+  - enabled: 1
+    path: Assets/Scenes/Lineadetiempo.unity
+    guid: 0798b5c1d9597384d9811b65d3fa85cf
+  - enabled: 1
+    path: Assets/Scenes/Infografia.unity
+    guid: 1b2fb7099c4c30d49ae0a76127edc2a2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
